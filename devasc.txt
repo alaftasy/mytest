@@ -1,3 +1,0 @@
-I am on my way to passing the NetAcad devnet exam
-I am beginning to understand Git!
-this text was originally added while in the feature1 branch
